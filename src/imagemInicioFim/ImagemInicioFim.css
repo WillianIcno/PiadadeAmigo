@@ -1,0 +1,15 @@
+/* App.css */
+
+.ImagensInicioFim {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Imagem-inicio {
+    margin-right: 60px; /* Ajuste conforme necessário */
+  }
+  
+  .Imagem-fim {
+    margin-left: 20px; /* Ajuste conforme necessário */
+  }
+  
